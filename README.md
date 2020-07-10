@@ -1,2 +1,4 @@
-# cancer_de_piel_senales_3
-Repositorio para el curso de señales 3
+﻿
+# Proyeco señales 3
+Proyecto de la materia señales 3 en el cual se trabajara reconimiento de patrones enfocado al cancer de piel
+

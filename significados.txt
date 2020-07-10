@@ -1,0 +1,20 @@
+
+scalp 0
+ear 1
+face 2
+back 3
+trunk 4
+chest 5
+upper 6
+abdomen 7
+uknown 8
+lower 9
+genital 10
+neck 11
+hand 12
+foot 13
+acral 14
+
+mujeres 1
+hombres 0
+forma, tamaño, escala de grises, svm, redes neuronales 
